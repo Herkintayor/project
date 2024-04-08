@@ -1,0 +1,32 @@
+*{
+    padding: 1;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+.searchlogo {
+    background-color: red;
+    color: red;
+    position: sticky;
+    
+}
+#gif{
+    width: 100%;
+    padding: 0px;
+    margin: -3px;
+    c
+}
+.logo {
+    padding: 1 0 0 1;
+    margin: 0
+}
+.x {
+    margin-left:1200px;
+    margin-top: 10px; 
+    padding-top: 10px;
+    text-align: ; 
+}
+.search {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth; 
+}

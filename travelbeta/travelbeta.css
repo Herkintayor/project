@@ -1,0 +1,16 @@
+*{
+    padding: 1;
+    margin: 0;
+}
+.header{
+    padding-left: 80px;
+}
+.header1{
+    padding-left: 170px;
+}
+.return{
+    padding-left: 600px;
+}
+.submit{
+    padding-left: 600px;
+}

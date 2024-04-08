@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top{ 
+    padding-left: 800px;
+}
+.headimage{
+    margin-left: 5px;
+    display: inline;
+}
+.services{
+    padding-left: 80px;
+    margin-bottom: 90px;
+}
+#recent{
+    padding-left: 20px;
+    position: sticky;
+}
+.faq{
+    padding-left: 70px;
+}
+.apply{
+    padding-left: 28px;
+}

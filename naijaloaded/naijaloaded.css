@@ -1,0 +1,37 @@
+* {padding: 0;
+    margin: 0;
+html
+    { background-color: black;}
+
+}
+.class {
+    padding: 0;
+    margin: 0;
+}
+#id1 {
+    
+}
+.trending {
+    position: fixed;
+    top: 0px; 
+    
+}
+.hottestpost {
+    border-color: red;
+}
+td
+{width: 50%;}
+.tab
+{margin-bottom: 857vh;}
+.table2 {
+    margin-left: 180px;
+}
+.footer{
+    text-align: center;
+}
+.table3 {
+    margin-left: 180px;
+}
+.tab2 {
+    margin-bottom: 430vh;
+}

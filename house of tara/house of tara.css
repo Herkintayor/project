@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    background-color: black;
+}
+.header{
+    position:fixed
+    top: 0;
+}
+.blank{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+.header2{
+    padding: 10px;
+    margin: 0;
+}
+.whitee{
+    background-color: white;
+    padding: 0px;
+    margin: 0;
+}
